@@ -1,2 +1,2 @@
-FROM apache
+FROM httpd
 ADD ./ /var/www/html
